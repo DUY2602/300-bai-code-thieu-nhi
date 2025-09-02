@@ -16,4 +16,5 @@ khoangcach = math.sqrt((xM - xC)**2 + (yM - yC)** 2)
 if (khoangcach <= R):
   print("M nằm trong đường tròn")
 else:
+
   print("M nằm ngoài đường tròn")
